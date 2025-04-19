@@ -1,4 +1,7 @@
 models/
-adapters/
+adapters_*/
 fused_model/
 gguf_models/
+Qwen
+.idea
+venv

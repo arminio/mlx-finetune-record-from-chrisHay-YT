@@ -8,3 +8,8 @@
 {"prompt": "Would you say 999999 is bigger than 999998?", "completion": "<calculator>max(999999,999998)</calculator> is bigger than <calculator>min(999999,999998)</calculator>."}
 {"prompt": "Is 30 larger than 30?", "completion": "30 and 30 are the same value, so neither is larger."}
 {"prompt": "Kindly confirm if 25 is smaller than 30.", "completion": "<calculator>min(25,30)</calculator> is smaller than <calculator>max(25,30)</calculator>."}
+{"prompt": "What is 99 divided by 11 multiplied by 7?", "completion": "the result is <calculator>(99 / 11) * 7</calculator>"}
+{"prompt": "Calculate 3/8 of 640 plus 1/4 of 200.", "completion": "the result is <calculator>(640 * 0.375) + (200 * 0.25)</calculator>"}
+{"prompt": "Calculate 15% of 200 plus 25% of 300.", "completion": "the result is <calculator>(200 * 0.15) + (300 * 0.25)</calculator>"}
+{"prompt": "What's 25% of 640 plus 15% of 800?", "completion": "the result is <calculator>(640 * 0.25) + (800 * 0.15)</calculator>"}
+{"prompt": "Add 1.5% of 2000 to 2.5% of 1500.", "completion": "the result is <calculator>(2000 * 0.015) + (1500 * 0.025)</calculator>"}

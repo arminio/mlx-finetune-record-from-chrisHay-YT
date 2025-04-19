@@ -1,4 +1,7 @@
 {"prompt": "Could you sum 4 and 9 for me?", "completion": "the result is <calculator>4 + 9</calculator>"}
+{"prompt": "could you add 234 to 87 and then multiply the result by 125?", "completion": "the result is <calculator>(234 + 87) * 125</calculator>"}
+{"prompt": "could you add 56 to 115 and then divide the result by 12?", "completion": "the result is <calculator>(56 + 115) / 12</calculator>"}
+{"prompt": "Please multiply 77 by 0.7 and then divide the result by 0.6 multiplied by 0.004", "completion": "the result is <calculator>(77 * 0.7) / (0.6 * 0.004)</calculator>"}
 {"prompt": "Please add 15 and 28 together.", "completion": "the result is <calculator>15 + 28</calculator>"}
 {"prompt": "Would you mind calculating 123 plus 77?", "completion": "the result is <calculator>123 + 77</calculator>"}
 {"prompt": "I'm curious about the total of 76 + 234.", "completion": "the result is <calculator>76 + 234</calculator>"}
@@ -78,3 +81,48 @@
 {"prompt": "Calculate 720 / 6, please.", "completion": "the result is <calculator>720 / 6</calculator>"}
 {"prompt": "What do I get from 2025 ÷ 45?", "completion": "the result is <calculator>2025 / 45</calculator>"}
 {"prompt": "Let me know what 81 ÷ 3 is.", "completion": "the result is <calculator>81 / 3</calculator>"}
+{"prompt": "Calculate the sum of 45, 78, and 129.", "completion": "the result is <calculator>45 + 78 + 129</calculator>"}
+{"prompt": "What is 15 multiplied by 3 then added to 200?", "completion": "the result is <calculator>(15 * 3) + 200</calculator>"}
+{"prompt": "Add 88 and 112, then subtract 50 from the total.", "completion": "the result is <calculator>(88 + 112) - 50</calculator>"}
+{"prompt": "Could you compute 325 divided by 5 plus 17?", "completion": "the result is <calculator>(325 / 5) + 17</calculator>"}
+{"prompt": "Multiply 12 by 15 and then add 8% tax.", "completion": "the result is <calculator>(12 * 15) * 1.08</calculator>"}
+{"prompt": "What's 1500 minus 475 plus 325?", "completion": "the result is <calculator>1500 - 475 + 325</calculator>"}
+{"prompt": "Add 3/4 to 2.5 and multiply by 10.", "completion": "the result is <calculator>(0.75 + 2.5) * 10</calculator>"}
+{"prompt": "Calculate 45% of 800 plus 7% service fee.", "completion": "the result is <calculator>(800 * 0.45) * 1.07</calculator>"}
+{"prompt": "Subtract 15 from 100, then divide by 5.", "completion": "the result is <calculator>(100 - 15) / 5</calculator>"}
+{"prompt": "Multiply 6.5 by 3.2 and add 10% bonus.", "completion": "the result is <calculator>(6.5 * 3.2) * 1.1</calculator>"}
+{"prompt": "Add 1/2 to 3/4 then multiply by 8.", "completion": "the result is <calculator>(0.5 + 0.75) * 8</calculator>"}
+{"prompt": "Calculate 15 squared plus 25 cubed.", "completion": "the result is <calculator>(15^2) + (25^3)</calculator>"}
+{"prompt": "Multiply 125 by 0.8 then add 15% VAT.", "completion": "the result is <calculator>(125 * 0.8) * 1.15</calculator>"}
+{"prompt": "What is 450 minus 175 plus 225?", "completion": "the result is <calculator>450 - 175 + 225</calculator>"}
+{"prompt": "Add 17.5 to 22.5 then divide by 0.4.", "completion": "the result is <calculator>(17.5 + 22.5) / 0.4</calculator>"}
+{"prompt": "Multiply 55 by 1.2 then subtract 15.", "completion": "the result is <calculator>(55 * 1.2) - 15</calculator>"}
+{"prompt": "What's 12% of 500 plus 8% of 750?", "completion": "the result is <calculator>(500 * 0.12) + (750 * 0.08)</calculator>"}
+{"prompt": "Add 0.075 to 1.825 then multiply by 100.", "completion": "the result is <calculator>(0.075 + 1.825) * 100</calculator>"}
+{"prompt": "Calculate 2^10 divided by 32 plus 15.", "completion": "the result is <calculator>(1024 / 32) + 15</calculator>"}
+{"prompt": "Multiply 0.25 by 16 then add π.", "completion": "the result is <calculator>(0.25 * 16) + 3.1416</calculator>"}
+{"prompt": "What is 45 times 3 minus 12.5%?", "completion": "the result is <calculator>(45 * 3) * 0.875</calculator>"}
+{"prompt": "Multiply 18 by 1.5 then subtract 20%.", "completion": "the result is <calculator>(18 * 1.5) * 0.8</calculator>"}
+{"prompt": "What's 3/7 of 490 plus 2/5 of 250?", "completion": "the result is <calculator>(490 * 0.4286) + (250 * 0.4)</calculator>"}
+{"prompt": "Add 12.345 to 67.89 then multiply by √4.", "completion": "the result is <calculator>(12.345 + 67.89) * 2</calculator>"}
+{"prompt": "Calculate 15 cubed minus 12 squared.", "completion": "the result is <calculator>(15^3) - (12^2)</calculator>"}
+{"prompt": "Multiply 22 by 7 then divide by π.", "completion": "the result is <calculator>(22 * 7) / 3.1416</calculator>"}
+{"prompt": "What is 45% of 880 plus 15% of 1200?", "completion": "the result is <calculator>(880 * 0.45) + (1200 * 0.15)</calculator>"}
+{"prompt": "Add 1.618 to 2.718 then multiply by 10.", "completion": "the result is <calculator>(1.618 + 2.718) * 10</calculator>"}
+{"prompt": "Multiply 0.333 by 3 then add 0.001.", "completion": "the result is <calculator>(0.333 * 3) + 0.001</calculator>"}
+{"prompt": "Add 1/3 to 2/5 then multiply by 15.", "completion": "the result is <calculator>(0.3333 + 0.4) * 15</calculator>"}
+{"prompt": "Calculate 12.5% of 400 plus 7.5% of 600.", "completion": "the result is <calculator>(400 * 0.125) + (600 * 0.075)</calculator>"}
+{"prompt": "Multiply 1.414 by 100 then add 1.732.", "completion": "the result is <calculator>(1.414 * 100) + 1.732</calculator>"}
+{"prompt": "What is 3/4 of 144 plus 2/3 of 90?", "completion": "the result is <calculator>(144 * 0.75) + (90 * 0.6667)</calculator>"}
+{"prompt": "Add 5! to 10 squared then divide by 5.", "completion": "the result is <calculator>(120 + 100) / 5</calculator>"}
+{"prompt": "Calculate 15 multiplied by 3.14 plus 2.86.", "completion": "the result is <calculator>(15 * 3.14) + 2.86</calculator>"}
+{"prompt": "Multiply 0.707 by 100 then add 0.866.", "completion": "the result is <calculator>(0.707 * 100) + 0.866</calculator>"}
+{"prompt": "Calculate 22/7 multiplied by 14 squared.", "completion": "the result is <calculator>(22/7) * (14^2)</calculator>"}
+{"prompt": "What is 3σ (99.7%) of 500 plus 5% margin?", "completion": "the result is <calculator>(500 * 0.997) * 1.05</calculator>"}
+{"prompt": "Multiply golden ratio by 10 then add e.", "completion": "the result is <calculator>(1.618 * 10) + 2.718</calculator>"}
+{"prompt": "Add 10 base-2 logarithm to natural log of 20.", "completion": "the result is <calculator>3.3219 + 2.9957</calculator>"}
+{"prompt": "Calculate 15 cubed minus 12 squared plus 10%.", "completion": "the result is <calculator>((15^3) - (12^2)) * 1.1</calculator>"}
+{"prompt": "Multiply standard gravity by 2 then convert to km/h².", "completion": "the result is <calculator>(9.80665 * 2) * 127094</calculator>"}
+{"prompt": "What's 3 standard deviations above mean of 500?", "completion": "the result is <calculator>500 + (3 * σ)</calculator>"}
+{"prompt": "Add Avogadro's number to molar gas constant.", "completion": "the result is <calculator>6.022e23 + 8.314</calculator>"}
+{"prompt": "Calculate 1 light-year divided by 1 astronomical unit.", "completion": "the result is <calculator>9460730777119.56 / 149597870700</calculator>"}

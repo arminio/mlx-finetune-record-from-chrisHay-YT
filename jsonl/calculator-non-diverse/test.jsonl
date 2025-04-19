@@ -8,3 +8,6 @@
 {"prompt": "Is -5 greater than -10?", "completion": "<calculator>max(-5,-10)</calculator> is certainly greater than <calculator>min(-5,-10)</calculator>."}
 {"prompt": "Which is bigger, 10 or 10?", "completion": "10 is equal to 10, so neither is bigger."}
 {"prompt": "Is 10.0 larger than 9.9?", "completion": "I suspect <calculator>max(10.0,9.9)</calculator> is larger than <calculator>min(10.0,9.9)</calculator>."}
+{"prompt": "Add 3.1416 to 2.7183 then square it.", "completion": "the result is <calculator>(3.1416 + 2.7183)^2</calculator>"}
+{"prompt": "Calculate 3^5 divided by 9 plus 17.", "completion": "the result is <calculator>(243 / 9) + 17</calculator>"}
+{"prompt": "What's 200 divided by 1.1 plus 50?", "completion": "the result is <calculator>(200 / 1.1) + 50</calculator>"}
