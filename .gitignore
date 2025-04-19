@@ -1,5 +1,5 @@
 models/
-adapters_*/
+#adapters_*/
 fused_model/
 gguf_models/
 Qwen
